@@ -8,3 +8,10 @@ source
 Galaxy Rotation Curve Fitting.pdf
 mw_rc_fit_problem.py
 first_python_game.py
+__pycache__/
+*.bak
+*.log
+_to_delete/
+archive/
+.venv/
+*-env/
