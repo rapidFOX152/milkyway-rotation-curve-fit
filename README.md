@@ -58,9 +58,14 @@ The random walks are seeded (`SEED = 42`), so the numbers above reproduce exactl
 
 ## Credits
 
-- Task and workshop: Milky Way dark matter workshop, Jan 2025 [add organizers and institution].
+- Task and workshop: "Introduction to Astrophysics Research: Milky Way's Dark Matter and Mass", Dhaka, Bangladesh, Jan 24-25, 2025.
 - Rotation curve data: Jiao et al. 2023, *Detection of the Keplerian decline in the Milky Way rotation curve*.
 - Baryonic contribution: de Salas et al. 2019, *On the estimation of the Local Dark Matter Density using the rotation curve of the Milky Way*.
 - Halo potentials: galpy (Bovy 2015).
 
 The workshop handout and the original task script are not included in this repository.
+
+## Key figures
+
+![Einasto best fit](fig3_einasto_best.png)
+![NFW best fit](fig1_nfw_best.png)
